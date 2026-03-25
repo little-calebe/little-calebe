@@ -1,3 +1,5 @@
+
+
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Meu+é+Calebe+Afonso+do+Nascimento;)](https://git.io/typing-svg)
 
 🎂 Idade: 16 anos
@@ -16,3 +18,4 @@ Crescer na área de TI, adquirindo experiência, aprimorando meus conhecimentos 
 📂 Sobre o Portfólio:
 Este portfólio reúne atividades e projetos desenvolvidos ao longo do meu aprendizado, mostrando minha evolução, dedicação e interesse pela área de informática.
 
+<img width="854" height="120" alt="image" src="https://github.com/user-attachments/assets/a16c9fa2-2170-4518-9d4c-a4e4640fc18f" />
