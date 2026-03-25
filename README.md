@@ -1,16 +1,18 @@
-## Hi there 👋
+Olá, meu nome é Calebe Afonso do Nascimento
 
-<!--
-**little-calebe/little-calebe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎂 Idade: 16 anos
+📍 Localização: Americana – SP
+🏫 Escolaridade: Heitor Penteado
 
-Here are some ideas to get you started:
+💻 Área de Atuação:
+Técnico de Informática em formação
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 Sobre mim:
+Tenho grande interesse por tecnologia, com foco em desenvolvimento e resolução de problemas. Busco sempre aprender mais, evoluindo minhas habilidades tanto na prática quanto na teoria.
+
+🎯 Objetivo:
+Crescer na área de TI, adquirindo experiência, aprimorando meus conhecimentos e desenvolvendo projetos cada vez mais completos.
+
+📂 Sobre o Portfólio:
+Este portfólio reúne atividades e projetos desenvolvidos ao longo do meu aprendizado, mostrando minha evolução, dedicação e interesse pela área de informática.
+
