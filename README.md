@@ -1,4 +1,4 @@
-
+<img width="854" height="150" alt="image" src="https://github.com/user-attachments/assets/fcf1a520-9147-4327-a580-857054f9474d" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Meu+é+Calebe+Afonso+do+Nascimento;)](https://git.io/typing-svg)
 
