@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Meu+é+Calebe+Afonso+do+Nascimento;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Meu+nome+é+Calebe+Afonso+do+Nascimento;)](https://git.io/typing-svg)
 
 🎂 Idade: 16 anos
 📍 Localização: Americana – SP
