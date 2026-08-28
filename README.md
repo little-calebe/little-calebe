@@ -1,5 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Meu+nome+é+Calebe+;)](https://git.io/typing-svg)
  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+ 
 🎓  Estudante | 💻 Técnico em Informática em formação | 🌎 Americana - SP
  
 🚀 Sobre mim
