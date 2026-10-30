@@ -4,7 +4,7 @@
 🎓  Estudante | 💻 Técnico em Informática em formação | 🌎 Americana - SP
  
 🚀 Sobre mim
-🎂 Tenho 16w anos
+🎂 Tenho 16 anos
 📍 Moro em Americana (SP)
 🏫 Estudo na Escola Heitor Penteado
 💡 Em formação na área de Tecnologia da Informação
